@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-DeviceMotion-0.1.0";
+const cacheName = "DefaultCompany-AR植物戰士:水土守護行動-0.1.0";
 const contentToCache = [
     "Build/DeviceMotion.loader.js",
     "Build/DeviceMotion.framework.js.unityweb",
